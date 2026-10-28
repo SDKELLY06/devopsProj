@@ -1,2 +1,2 @@
-print(1)
+print("ONE"(1))
 from count2 import *
