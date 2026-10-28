@@ -1,2 +1,2 @@
-print(2)
+print(2"TWO")
 from count3  import *
